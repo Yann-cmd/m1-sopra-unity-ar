@@ -1,0 +1,64 @@
+# =============== #
+# Unity & Vuforia #
+# =============== #
+
+# Dossiers générés automatiquement par Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Packages/*.tgz
+
+# Fichiers de cache Unity
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Vuforia fichiers générés
+Assets/Editor/Vuforia/
+Assets/StreamingAssets/Vuforia/
+
+# Build (APK, EXE, etc.)
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.zip
+
+# IDE (Visual Studio / Rider / VSCode)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# OS spécifiques
+.DS_Store
+Thumbs.db
+
+# =================== #
+# Git LFS suggestion  #
+# =================== #
+# (active Git LFS si tu as de gros fichiers, textures, vidéos AR, modèles 3D)
+# git lfs track "*.png"
+# git lfs track "*.jpg"
+# git lfs track "*.mp4"
+# git lfs track "*.fbx"
+# git lfs track "*.wav"
+# git lfs track "*.ogg"
